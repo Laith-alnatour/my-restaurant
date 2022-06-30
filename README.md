@@ -25,5 +25,13 @@
 More  and <font color="green">**more dishes**</font>  
 <br><br><br>
 **to visit our website press [***here***](https://duckduckgo.com).**
+<br>
+<br>
+<br>
+<br>
+here wireframe-snip
+<br>
+
+<img src="my-restaurant-SNIP.jpg" alt="wireframe-snip" style="width:128px;height:128px;">
 
 
