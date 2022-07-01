@@ -10,7 +10,7 @@
 
 <font color="red">**1.Mansaf**
 
-![Mansaf!](https://www.cheftariq.com/wp-content/uploads/2020/04/mansaf-4-1.jpg.webp "mansaf")
+![Mansaf!](https://www.cheftariq.com/wp-content/uploads/2020/04/mansaf-4-1.jpg.webp "mansaf" )
 
 
 **2.Makloba**
